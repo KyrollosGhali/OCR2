@@ -76,7 +76,8 @@ nest-asyncio==1.6.0
 networkx==3.6.1
 nltk==3.9.3
 numpy==2.4.2
-opencv-python==4.13.0.92
+# opencv-python==4.13.0.92
+opencv-python-headless
 opentelemetry-api==1.39.1
 opentelemetry-exporter-otlp-proto-common==1.39.1
 opentelemetry-exporter-otlp-proto-http==1.39.1
